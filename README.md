@@ -18,7 +18,7 @@ Projeto de estudo sobre Javascript, Pacotes Json e integração de API.
 <br>
 
 <p align="center">
-  <img alt="Hair Day - Plataforma de Agendamento" src="/.github/cover.jpg" width="100%">
+  <img alt="Hair Day - Plataforma de Agendamento" src="/.github/cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
